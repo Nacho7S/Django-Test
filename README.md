@@ -9,7 +9,9 @@ pip install -r requirements.txt
 ```
 ## Setup Database
 
-change DATABASES on [setting.py](https://github.com/Nacho7S/Django-Test/blob/main/apps/apps/settings.py)
+Change DATABASES on [setting.py](https://github.com/Nacho7S/Django-Test/blob/main/apps/apps/settings.py)
+or 
+Change .env.example which has been given
 
 ## Setup(migrate and seeding)
 Migrate
